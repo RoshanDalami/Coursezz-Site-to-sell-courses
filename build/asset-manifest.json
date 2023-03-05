@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.917f6714.css",
+    "main.js": "/static/js/main.515e3d8d.js",
+    "static/media/code.jpg": "/static/media/code.24c23c7502b3891a024a.jpg",
+    "static/media/python.png": "/static/media/python.1f9052d41098fea1acdb.png",
+    "static/media/flutter.jpeg": "/static/media/flutter.cdcdd37de1a5100e8b6d.jpeg",
+    "static/media/nodejs.jpeg": "/static/media/nodejs.84dea175baca064ddf68.jpeg",
+    "static/media/swift.jpeg": "/static/media/swift.a1b509524389b4aa2ce1.jpeg",
+    "static/media/reactNativ.jpeg": "/static/media/reactNativ.3f4ecf0b6d1459a5f3ba.jpeg",
+    "index.html": "/index.html",
+    "main.917f6714.css.map": "/static/css/main.917f6714.css.map",
+    "main.515e3d8d.js.map": "/static/js/main.515e3d8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.917f6714.css",
+    "static/js/main.515e3d8d.js"
+  ]
+}

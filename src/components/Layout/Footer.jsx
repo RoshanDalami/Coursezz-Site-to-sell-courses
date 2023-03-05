@@ -52,7 +52,8 @@ function Footer() {
                         required
                       />
                     </label>
-                    <button type="submit" className="btn btn-primary">Subscribe</button>
+                    <button type="submit" className="btn btn-primary" onClick={(e)=>{e.preventDefault(); 
+                    setEmail('')}}>Subscribe</button>
                   </form>
                 )}
                 <p>&copy; 2023 Team MSG</p>
