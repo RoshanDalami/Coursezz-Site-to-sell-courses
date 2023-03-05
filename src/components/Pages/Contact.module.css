@@ -1,0 +1,62 @@
+.container{
+    margin: 0 auto;
+    margin-top: 100px;
+    max-width: 800px;
+    
+    padding: 50px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form_group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .submit_button {
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #ff5a5f;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  .submit_button:hover {
+    background-color: #e0484a;
+  }
+  
